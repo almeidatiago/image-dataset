@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont #dynamic import
 import glob
 import os
 
-onlyGifs = glob.glob("*.gif")
+onlyGifs = glob.glob("*.JPEG")
 
 size = 512, 512
 
